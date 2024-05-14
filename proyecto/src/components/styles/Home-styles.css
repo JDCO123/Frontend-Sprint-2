@@ -1,0 +1,29 @@
+.container {
+    max-width: 400px;
+    margin: auto;
+    background-color: #f2f2f2;
+}
+
+.search {
+    border-radius: 25px;
+    width: 300px;
+    height: 30px;
+    justify-content: center;
+    background-color: #e7e7e7;
+}
+
+.menu button {
+    background-color: #f2f2f2;
+    border: none;
+}
+
+.items .prod {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+img{
+    width: 100px;
+    height: 100px; 
+}

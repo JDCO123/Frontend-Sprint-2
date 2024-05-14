@@ -1,0 +1,129 @@
+{"productos": 
+[   
+    {
+        "id": "1",
+        "Title": "Verde",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/verde_pc1gl9.png",
+        "price": "$25 MXN",
+        "cat": "Guajolote"
+    },
+
+    {
+        "id": "2",
+        "Title": "Mole",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870258/mole_pccxfz.png",
+        "price": "$25 MXN",
+        "cat": "Guajolote"
+    },
+
+    {
+        "id": "3",
+        "Title": "Guayaba",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/guayaba_swoc3b.png",
+        "price": "$25 MXN",
+        "cat": "Guajolote"
+    },
+    
+    {
+        "id": "4",
+        "Title": "Piña",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870258/pi%C3%B1a_raq0z8.png",
+        "price": "$25 MXN",
+        "cat": "Guajolote"
+    },
+    
+    {
+        "id": "5",
+        "Title": "Pasas",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870258/pasas_nyymry.png",
+        "price": "$25 MXN",
+        "cat": "Guajolote"
+    },
+    
+    {
+        "id": "6",
+        "Title": "Rajas",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/rajas_flzwud.png",
+        "price": "$25 MXN",
+        "cat": "Guajolote"
+    },
+
+    {
+        "id": "7",
+        "Title": "Champurrado",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/champurrado_ict4nk.png",
+        "price" : "$12 MXN",
+        "cat" : "Bebida"
+    },
+
+    {
+        "id": "8",
+        "Title": "Atole de arroz",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/atole_rzh2xa.png",
+        "price" : "$12 MXN",
+        "cat" : "Bebida"
+    },
+
+    {
+        "id": "9",
+        "Title": "Chocolate Caliente",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/chocolate_m4zibp.png",
+        "price" : "$12 MXN",
+        "cat" : "Bebida"
+    },
+
+    {
+        "id": "10",
+        "Title": "Cafe negro",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/cafe_vuza3l.png",
+        "price" : "$12 MXN",
+        "cat" : "Bebida"
+    },
+
+    {
+        "id": "11",
+        "Title": "Tamal verde",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_verde_vwbkl2.png",
+        "price" : "$14 MXN",
+        "cat" : "Tamal"
+    },
+
+    {
+        "id": "12",
+        "Title": "Tamal de mole",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_raja_c0oypb.png",
+        "price" : "$14 MXN",
+        "cat" : "Tamal"
+    },
+
+    {
+        "id": "13",
+        "Title": "Tamal de guayaba",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_guayaba_l5idoc.png",
+        "price" : "$14 MXN",
+        "cat" : "Tamal"
+    },
+
+    {
+        "id": "14",
+        "Title": "Tamal de piña",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_pi%C3%B1a_mmmhwf.png",
+        "price" : "$14 MXN",
+        "cat" : "Tamal"
+    },
+
+    {
+        "id": "15",
+        "Title": "Tamal de pasas",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_pasas_pq9sdq.png",
+        "price" : "$14 MXN",
+        "cat" : "Tamal"
+    },
+
+    {
+        "id": "16",
+        "Title": "Tamal de rajas",
+        "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_raja_c0oypb.png",
+        "price" : "$14 MXN",
+        "cat" : "Tamal"
+    }]}
